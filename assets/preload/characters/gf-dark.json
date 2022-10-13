@@ -188,10 +188,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_dark",
 	"position": [
-		60,
-		170
+		400,
+		160
 	],
 	"healthicon": "gf",
 	"flip_x": false,
